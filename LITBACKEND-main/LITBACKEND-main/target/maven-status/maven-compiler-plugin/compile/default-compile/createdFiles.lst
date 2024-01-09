@@ -1,0 +1,10 @@
+customloginapplication\CustomloginapplicationApplication.class
+customloginapplication\model\User.class
+customloginapplication\dto\UserDto.class
+customloginapplication\service\UserServiceImpl.class
+customloginapplication\configuration\SecurityConfig.class
+customloginapplication\service\CustomUserDetailsServices.class
+customloginapplication\repositories\UserRepository.class
+customloginapplication\service\UserService.class
+customloginapplication\service\CustomUserDetails.class
+customloginapplication\UserController.class
